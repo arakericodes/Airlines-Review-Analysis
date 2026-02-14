@@ -5,6 +5,7 @@
 This project analyzes airline customer reviews using Power BI, statistical modeling, and sentiment analysis. The objective is to evaluate customer satisfaction, identify key performance drivers, analyze trends over time, and provide strategic recommendations to improve retention and reduce churn on a travel platform.
 
 The dataset includes approximately 12,000 reviews across 422 airlines, rated on a 0–10 scale.
+Data Source - https://www.kaggle.com/datasets/juhibhojani/airline-reviews
 
 ---
 
